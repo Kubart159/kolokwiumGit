@@ -4,3 +4,4 @@ prosta wersja 1
 prosta wersja 2
 zmiana2
 zmiana3
+zmiana4
