@@ -2,3 +2,4 @@ zmiana1
 naprawaBledu1
 prosta wersja 1
 prosta wersja 2
+zmiana2
